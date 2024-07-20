@@ -1,0 +1,19 @@
+{
+  "Author": "Rukongai",
+  "Name": "Eorzea Collection Importer",
+  "InternalName": "ECImporter",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Allows you to import Eorzea Collection links into Glamourer.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "utility",
+    "glamour"
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "A tool for Glamourer",
+  "AcceptsFeedback": true
+}
