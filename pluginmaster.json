@@ -1,0 +1,22 @@
+[
+    {
+        "Author": "Rukongai",
+        "Name": "Eorzea Collection Importer",
+        "Description": "Allows you to import Eorzea Collection links into Glamourer.",
+        "InternalName": "ECImporter",
+        "AssemblyVersion": "1.0.0.0",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "utility",
+            "glamour"
+        ],
+        "DalamudApiLevel": 10,
+        "DownloadLinkInstall": "https://github.com/Rukongai/MyDalamudPlugins/raw/master/plugins/ECImporter/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Rukongai/MyDalamudPlugins/raw/master/plugins/ECImporter/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Rukongai/MyDalamudPlugins/raw/master/plugins/ECImporter/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1721445958"
+    }
+]
